@@ -16,7 +16,7 @@ namespace studentEnrollmentApp
 
 
 
-        // constructot - get student name and year
+        // constructor - get student name and year
         public Student()
         {
             System.Console.Write("Enter student first name: ");
