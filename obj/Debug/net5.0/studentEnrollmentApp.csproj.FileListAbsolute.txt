@@ -1,0 +1,16 @@
+/home/ash/Documents/daily_activities/cSharp/Projects/studentEnrollmentApp/bin/Debug/net5.0/studentEnrollmentApp
+/home/ash/Documents/daily_activities/cSharp/Projects/studentEnrollmentApp/bin/Debug/net5.0/studentEnrollmentApp.deps.json
+/home/ash/Documents/daily_activities/cSharp/Projects/studentEnrollmentApp/bin/Debug/net5.0/studentEnrollmentApp.runtimeconfig.json
+/home/ash/Documents/daily_activities/cSharp/Projects/studentEnrollmentApp/bin/Debug/net5.0/studentEnrollmentApp.runtimeconfig.dev.json
+/home/ash/Documents/daily_activities/cSharp/Projects/studentEnrollmentApp/bin/Debug/net5.0/studentEnrollmentApp.dll
+/home/ash/Documents/daily_activities/cSharp/Projects/studentEnrollmentApp/bin/Debug/net5.0/ref/studentEnrollmentApp.dll
+/home/ash/Documents/daily_activities/cSharp/Projects/studentEnrollmentApp/bin/Debug/net5.0/studentEnrollmentApp.pdb
+/home/ash/Documents/daily_activities/cSharp/Projects/studentEnrollmentApp/obj/Debug/net5.0/studentEnrollmentApp.csprojAssemblyReference.cache
+/home/ash/Documents/daily_activities/cSharp/Projects/studentEnrollmentApp/obj/Debug/net5.0/studentEnrollmentApp.GeneratedMSBuildEditorConfig.editorconfig
+/home/ash/Documents/daily_activities/cSharp/Projects/studentEnrollmentApp/obj/Debug/net5.0/studentEnrollmentApp.AssemblyInfoInputs.cache
+/home/ash/Documents/daily_activities/cSharp/Projects/studentEnrollmentApp/obj/Debug/net5.0/studentEnrollmentApp.AssemblyInfo.cs
+/home/ash/Documents/daily_activities/cSharp/Projects/studentEnrollmentApp/obj/Debug/net5.0/studentEnrollmentApp.csproj.CoreCompileInputs.cache
+/home/ash/Documents/daily_activities/cSharp/Projects/studentEnrollmentApp/obj/Debug/net5.0/studentEnrollmentApp.dll
+/home/ash/Documents/daily_activities/cSharp/Projects/studentEnrollmentApp/obj/Debug/net5.0/ref/studentEnrollmentApp.dll
+/home/ash/Documents/daily_activities/cSharp/Projects/studentEnrollmentApp/obj/Debug/net5.0/studentEnrollmentApp.pdb
+/home/ash/Documents/daily_activities/cSharp/Projects/studentEnrollmentApp/obj/Debug/net5.0/studentEnrollmentApp.genruntimeconfig.cache
